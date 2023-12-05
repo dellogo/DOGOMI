@@ -52,6 +52,7 @@
 ![image](https://github.com/dellogo/DOGOMI/assets/93125060/a224b650-4a46-4206-a40e-0c42d3fb4511)
 
 ### **구현사항(PPT)**
+##### [본인 부분]
 ![image](https://github.com/dellogo/DOGOMI/assets/93125060/5d9d7a44-ad4d-4c4d-880b-033e9dd3e211)
 ![image](https://github.com/dellogo/DOGOMI/assets/93125060/f11624f4-50d9-47ce-9cc1-5f4d153f5516)
 ![image](https://github.com/dellogo/DOGOMI/assets/93125060/619dc36b-705e-4dfe-a3be-65c2ef6bc193)
